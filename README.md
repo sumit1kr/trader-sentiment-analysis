@@ -136,7 +136,7 @@ The goal: uncover hidden patterns that can drive smarter, sentiment-aware tradin
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/trader-sentiment-analysis
+git clone https://github.com/sumit1kr/trader-sentiment-analysis
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn
@@ -152,7 +152,7 @@ analysis.ipynb```
 
 ## Author
 
-**Sumit Kumar**
+Sumit Kumar
 Submitted for: Junior Data Scientist — Trader Behavior Insights
 Company: PrimeTrade.ai
 Contact: skr.123y68@gmail.com
